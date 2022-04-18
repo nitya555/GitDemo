@@ -8,6 +8,8 @@ public class RestAPITest {
 		System.out.println("deleteTwitter");
 		System.out.println("deleteTwitter1");
 		System.out.println("deleteTwitter2");
+		System.out.println("deleteTwitter3");
+		System.out.println("deleteTwitter4");
 	}
 	
 	@Test
@@ -15,5 +17,7 @@ public class RestAPITest {
 		System.out.println("postJira");
 		System.out.println("postJira1");
 		System.out.println("postJira2");
+		System.out.println("postJira3");
+		System.out.println("postJira4");
 	}
 }

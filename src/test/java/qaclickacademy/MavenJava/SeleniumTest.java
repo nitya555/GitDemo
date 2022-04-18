@@ -12,4 +12,9 @@ public class SeleniumTest {
 	public void elementUi() {
 		System.out.println("elementUi");
 	}
+	
+	@Test
+	public void WebAutomation() {
+		System.out.println("WebAutomation");
+	}
 }
