@@ -20,4 +20,12 @@ public class RestAPITest {
 		System.out.println("postJira3");
 		System.out.println("postJira4");
 	}
+	@Test
+	public void soapUi() {
+		System.out.println("soapUi");
+		System.out.println("soapUi");
+		System.out.println("soapUi");
+		System.out.println("soapUi");
+		System.out.println("soapUi");
+	}
 }
